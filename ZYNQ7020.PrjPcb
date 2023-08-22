@@ -1,0 +1,2779 @@
+﻿[Design]
+Version=1.0
+HierarchyMode=0
+ChannelRoomNamingStyle=0
+ReleasesFolder=
+ChannelDesignatorFormatString=$Component_$RoomName
+ChannelRoomLevelSeperator=_
+OpenOutputs=1
+ArchiveProject=0
+TimestampOutput=0
+SeparateFolders=0
+TemplateLocationPath=
+PinSwapBy_Netlabel=1
+PinSwapBy_Pin=1
+AllowPortNetNames=0
+AllowSheetEntryNetNames=1
+AppendSheetNumberToLocalNets=0
+NetlistSinglePinNets=0
+DefaultConfiguration=Sources
+UserID=0xFFFFFFFF
+DefaultPcbProtel=1
+DefaultPcbPcad=0
+ReorderDocumentsOnCompile=1
+NameNetsHierarchically=0
+PowerPortNamesTakePriority=0
+AutoSheetNumbering=0
+PushECOToAnnotationFile=1
+DItemRevisionGUID=
+ReportSuppressedErrorsInMessages=0
+FSMCodingStyle=eFMSDropDownList_OneProcess
+FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=1
+OutputPath=Project Outputs for ZYNQ7010
+LogFolderPath=
+ManagedProjectGUID=
+IncludeDesignInRelease=0
+
+[Preferences]
+PrefsVaultGUID=
+PrefsRevisionGUID=
+
+[Document1]
+DocumentPath=ZYNQ_SOC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OKQIORYQ
+
+[Document2]
+DocumentPath=ZYNQ_SOC_ARM.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MXNLSNGP
+
+[Document3]
+DocumentPath=ZYNQ_SOC_FPGA.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UXUDQXZI
+
+[Document4]
+DocumentPath=ZYNQ_SOC_JTAG.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KRWOXJVV
+
+[Document5]
+DocumentPath=龙井V1.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document6]
+DocumentPath=ZYNQ_SOC_PWR.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=13
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LOSASVVH
+
+[Document7]
+DocumentPath=DDR.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WVZTDIHJ
+
+[Document8]
+DocumentPath=FLASH.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QPNSTMII
+
+[Document9]
+DocumentPath=SD_Card.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=10
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RQYISZJD
+
+[Document10]
+DocumentPath=ZYNQ7020.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RWXUMEFW
+
+[Document11]
+DocumentPath=ZYNQ_SOC_FPGA.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document12]
+DocumentPath=ZYNQ_SOC_ARM.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document13]
+DocumentPath=ZYNQ7010_add.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TUKSOCUW
+
+[Document14]
+DocumentPath=ZYNQ.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=12
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KNJMAWKO
+
+[Document15]
+DocumentPath=FLASH.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document16]
+DocumentPath=Ethernet.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PWHKFYTD
+
+[Document17]
+DocumentPath=ZYNQ7010_add.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DCXIJGTG
+
+[Document18]
+DocumentPath=ZYNQ_SOC_JTAG.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document19]
+DocumentPath=ZYNQ7010.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document20]
+DocumentPath=USB.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=14
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OYPCGMPF
+
+[Document21]
+DocumentPath=USB.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document22]
+DocumentPath=UART.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=11
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QROUNPTX
+
+[Document23]
+DocumentPath=USB_JTAG.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=15
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CGMCSXKX
+
+[Document24]
+DocumentPath=Human_Interface.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DQVHDWJE
+
+[Document25]
+DocumentPath=EX_IO.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QZHMVEIM
+
+[Document26]
+DocumentPath=Ethernet.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document27]
+DocumentPath=SD_Card.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document28]
+DocumentPath=EX_IO.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document29]
+DocumentPath=Human_Interface.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document30]
+DocumentPath=UART.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document31]
+DocumentPath=PWR.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=9
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BWYSKYIA
+
+[Document32]
+DocumentPath=USB_JTAG.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document33]
+DocumentPath=ZYNQ7020_V3.0.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document34]
+DocumentPath=PcbLib2.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WDUYRGET
+
+[Document35]
+DocumentPath=ZYNQ7020.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SGBGSNIV
+
+[Document36]
+DocumentPath=DDR.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document37]
+DocumentPath=ZYNQ7020.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Configuration1]
+Name=Sources
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
+ConfigurationType=Source
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=-1
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=-1
+TemplateFilename=
+TemplateStoreRelative=-1
+PCB_PrintColor=0
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+SCH_ExpandLogicalToPhysical=0
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=-1
+
+[Generic_EDE]
+OutputDir=Project Outputs for ZYNQ7010
+
+[OutputGroup1]
+Name=Netlist Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=CadnetixNetlist
+OutputName1=Cadnetix Netlist
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=CalayNetlist
+OutputName2=Calay Netlist
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=EDIF
+OutputName3=EDIF for PCB
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=EESofNetlist
+OutputName4=EESof Netlist
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+OutputType5=IntergraphNetlist
+OutputName5=Intergraph Netlist
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=MentorBoardStationNetlist
+OutputName6=Mentor BoardStation Netlist
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=MultiWire
+OutputName7=MultiWire
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=OrCadPCB2Netlist
+OutputName8=Orcad/PCB2 Netlist
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=PADSNetlist
+OutputName9=PADS ASCII Netlist
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Pcad
+OutputName10=Pcad for PCB
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=PCADNetlist
+OutputName11=PCAD Netlist
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=PCADnltNetlist
+OutputName12=PCADnlt Netlist
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Protel2Netlist
+OutputName13=Protel2 Netlist
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=ProtelNetlist
+OutputName14=Protel
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=RacalNetlist
+OutputName15=Racal Netlist
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=RINFNetlist
+OutputName16=RINF Netlist
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SciCardsNetlist
+OutputName17=SciCards Netlist
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=TangoNetlist
+OutputName18=Tango Netlist
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+OutputType19=TelesisNetlist
+OutputName19=Telesis Netlist
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+OutputType20=WireListNetlist
+OutputName20=WireList Netlist
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+OutputType21=SIMetrixNetlist
+OutputName21=SIMetrix
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+OutputType22=SIMPLISNetlist
+OutputName22=SIMPLIS
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=XSpiceNetlist
+OutputName23=XSpice Netlist
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
+
+[OutputGroup2]
+Name=Simulator Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+
+[OutputGroup3]
+Name=Documentation Outputs
+Description=
+TargetPrinter=Virtual Printer
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Composite
+OutputName1=Composite Drawing
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=2.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=C:\Users\LGH\Desktop\学习资料\PCB Design\ZYNQ7010\ZYNQ7010.PcbDoc
+Configuration1_Name2=OutputConfigurationParameter2
+Configuration1_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\LGH\Desktop\学习资料\PCB Design\ZYNQ7010\ZYNQ7010.PcbDoc
+Configuration1_Name3=OutputConfigurationParameter3
+Configuration1_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\学习资料\PCB Design\ZYNQ7010\ZYNQ7010.PcbDoc
+Configuration1_Name4=OutputConfigurationParameter4
+Configuration1_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\学习资料\PCB Design\ZYNQ7010\ZYNQ7010.PcbDoc
+Configuration1_Name5=OutputConfigurationParameter5
+Configuration1_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MidLayer2|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\学习资料\PCB Design\ZYNQ7010\ZYNQ7010.PcbDoc
+Configuration1_Name6=OutputConfigurationParameter6
+Configuration1_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\学习资料\PCB Design\ZYNQ7010\ZYNQ7010.PcbDoc
+Configuration1_Name7=OutputConfigurationParameter7
+Configuration1_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\学习资料\PCB Design\ZYNQ7010\ZYNQ7010.PcbDoc
+Configuration1_Name8=OutputConfigurationParameter8
+Configuration1_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\学习资料\PCB Design\ZYNQ7010\ZYNQ7010.PcbDoc
+Configuration1_Name9=OutputConfigurationParameter9
+Configuration1_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=KeepOutLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\学习资料\PCB Design\ZYNQ7010\ZYNQ7010.PcbDoc
+Configuration1_Name10=OutputConfigurationParameter10
+Configuration1_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\学习资料\PCB Design\ZYNQ7010\ZYNQ7010.PcbDoc
+Configuration1_Name11=OutputConfigurationParameter11
+Configuration1_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\学习资料\PCB Design\ZYNQ7010\ZYNQ7010.PcbDoc
+Configuration1_Name12=OutputConfigurationParameter12
+Configuration1_Item12=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\学习资料\PCB Design\ZYNQ7010\ZYNQ7010.PcbDoc
+OutputType2=PCB 3D Print
+OutputName2=PCB 3D Print
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=PCB 3D Video
+OutputName3=PCB 3D Video
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=PCB Print
+OutputName4=PCB Prints
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=PCBDrawing
+OutputName5=Draftsman
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=PCBLIB Print
+OutputName6=PCBLIB Prints
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=PDF3D
+OutputName7=PDF3D
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=PDF3D MBA
+OutputName8=PDF3D MBA
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Report Print
+OutputName9=Report Prints
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Schematic Print
+OutputName10=Schematic Prints
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=SimView Print
+OutputName11=SimView Prints
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup4]
+Name=Assembly Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Assembly
+OutputName1=Assembly Drawings
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Pick Place
+OutputName2=Generates pick and place files
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+OutputType3=Test Points For Assembly
+OutputName3=Test Point Report
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+
+[OutputGroup5]
+Name=Fabrication Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=CompositeDrill
+OutputName1=Composite Drill Drawing
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Drill
+OutputName2=Drill Drawing/Guides
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=Board Stack Report
+OutputName3=Report Board Stack
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=Final
+OutputName4=Final Artwork Prints
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Gerber X2
+OutputName5=Gerber X2 Files
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=ODB
+OutputName6=ODB++ Files
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=Mask
+OutputName7=Solder/Paste Mask Prints
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=NC Drill
+OutputName8=NC Drill Files
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=IPC2581
+OutputName9=IPC-2581 Files
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Plane
+OutputName10=Power-Plane Prints
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=Test Points
+OutputName11=Test Point Report
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Gerber
+OutputName12=Gerber Files
+OutputDocumentPath12=
+OutputVariantName12=[No Variations]
+OutputDefault12=0
+Configuration12_Name1=ForceUpdateSettings
+Configuration12_Item1=False
+Configuration12_Name2=OutputConfigurationParameter1
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973833~1,16973831~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+
+[OutputGroup6]
+Name=Report Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=BOM_PartType
+OutputName1=Bill of Materials
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=ComponentCrossReference
+OutputName2=Component Cross Reference Report
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+OutputType3=ReportHierarchy
+OutputName3=Report Project Hierarchy
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+OutputType4=Script
+OutputName4=Script Output
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+OutputType5=SimpleBOM
+OutputName5=Simple BOM
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=SinglePinNetReporter
+OutputName6=Report Single Pin Nets
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=GOSTBOM
+OutputName7=GOST BOM
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+
+[OutputGroup7]
+Name=Other Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Text Print
+OutputName1=Text Print
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Text Print
+OutputName2=Text Print
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=Text Print
+OutputName3=Text Print
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=Text Print
+OutputName4=Text Print
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Text Print
+OutputName5=Text Print
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=Text Print
+OutputName6=Text Print
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=Text Print
+OutputName7=Text Print
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=Text Print
+OutputName8=Text Print
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Text Print
+OutputName9=Text Print
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Text Print
+OutputName10=Text Print
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=Text Print
+OutputName11=Text Print
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Text Print
+OutputName12=Text Print
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType13=Text Print
+OutputName13=Text Print
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType14=Text Print
+OutputName14=Text Print
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType15=Text Print
+OutputName15=Text Print
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType16=Text Print
+OutputName16=Text Print
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType17=Text Print
+OutputName17=Text Print
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup8]
+Name=Validation Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=BOM_Violations
+OutputName1=BOM Checks Report
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=Component states check
+OutputName2=Server's components states check
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=Configuration compliance
+OutputName3=Environment configuration compliance check
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=Design Rules Check
+OutputName4=Design Rules Check
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Differences Report
+OutputName5=Differences Report
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=Electrical Rules Check
+OutputName6=Electrical Rules Check
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=Footprint Comparison Report
+OutputName7=Footprint Comparison Report
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+
+[OutputGroup9]
+Name=Export Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AutoCAD dwg/dxf PCB
+OutputName1=AutoCAD dwg/dxf File PCB
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=AutoCAD dwg/dxf Schematic
+OutputName2=AutoCAD dwg/dxf File Schematic
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=ExportIDF
+OutputName3=Export IDF
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=ExportPARASOLID
+OutputName4=Export PARASOLID
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+OutputType5=ExportSTEP
+OutputName5=Export STEP
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=ExportVRML
+OutputName6=Export VRML
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=MBAExportPARASOLID
+OutputName7=Export PARASOLID
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=MBAExportSTEP
+OutputName8=Export STEP
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=Save As/Export PCB
+OutputName9=Save As/Export PCB
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Save As/Export Schematic
+OutputName10=Save As/Export Schematic
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=Specctra Design PCB
+OutputName11=Specctra Design PCB
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=AnsysEDB
+OutputName12=Ansys EDB
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+
+[OutputGroup10]
+Name=PostProcess Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Copy Files
+OutputName1=Copy Files
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+
+[Modification Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=1
+Type81=1
+Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
+Type88=1
+Type89=1
+Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
+Type96=1
+Type97=1
+Type98=1
+Type99=1
+Type100=1
+Type101=1
+Type102=1
+Type103=1
+Type104=1
+Type105=1
+Type106=1
+Type107=1
+Type108=1
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=1
+Type115=1
+Type116=1
+Type117=1
+Type118=1
+Type119=1
+
+[Difference Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+
+[Electrical Rules Check]
+Type1=1
+Type2=1
+Type3=2
+Type4=1
+Type5=2
+Type6=2
+Type7=0
+Type8=1
+Type9=1
+Type10=1
+Type11=2
+Type12=0
+Type13=0
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=0
+Type21=0
+Type22=0
+Type23=0
+Type24=1
+Type25=2
+Type26=0
+Type27=2
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=2
+Type33=0
+Type34=2
+Type35=1
+Type36=2
+Type37=1
+Type38=2
+Type39=2
+Type40=2
+Type41=0
+Type42=2
+Type43=1
+Type44=0
+Type45=0
+Type46=0
+Type47=0
+Type48=0
+Type49=0
+Type50=2
+Type51=0
+Type52=0
+Type53=1
+Type54=1
+Type55=1
+Type56=2
+Type57=1
+Type58=1
+Type59=2
+Type60=0
+Type61=0
+Type62=0
+Type63=0
+Type64=0
+Type65=2
+Type66=3
+Type67=2
+Type68=2
+Type69=2
+Type70=2
+Type71=2
+Type72=2
+Type73=2
+Type74=1
+Type75=2
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=2
+Type81=3
+Type82=3
+Type83=3
+Type84=3
+Type85=3
+Type86=2
+Type87=2
+Type88=2
+Type89=1
+Type90=1
+Type91=3
+Type92=3
+Type93=2
+Type94=2
+Type95=2
+Type96=2
+Type97=2
+Type98=0
+Type99=1
+Type100=2
+Type101=0
+Type102=2
+Type103=2
+Type104=1
+Type105=2
+Type106=2
+Type107=2
+Type108=2
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=2
+Type115=2
+Type116=2
+Type117=3
+Type118=3
+Type119=3
+MultiChannelAlternate=2
+AlternateItemFail=3
+Type122=2
+Type123=1
+Type124=1
+Type125=1
+
+[ERC Connection Matrix]
+L1=NNNNNNNNNNNWNNNWW
+L2=NNWNNNNWWWNWNWNWN
+L3=NWEENEEEENEWNEEWN
+L4=NNENNNWEENNWNENWN
+L5=NNNNNNNNNNNNNNNNN
+L6=NNENNNNEENNWNENWN
+L7=NNEWNNWEENNWNENWN
+L8=NWEENEENEEENNEENN
+L9=NWEENEEEENEWNEEWW
+L10=NWNNNNNENNEWNNEWN
+L11=NNENNNNEEENWNENWN
+L12=WWWWNWWNWWWNWWWNN
+L13=NNNNNNNNNNNWNNNWW
+L14=NWEENEEEENEWNEEWW
+L15=NNENNNNEEENWNENWW
+L16=WWWWNWWNWWWNWWWNW
+L17=WNNNNNNNWNNNWWWWN
+
+[Annotate]
+SortOrder=3
+SortLocation=0
+ReplaceSubparts=0
+MatchParameter1=Comment
+MatchStrictly1=1
+MatchParameter2=Library Reference
+MatchStrictly2=1
+PhysicalNamingFormat=$Component_$RoomName
+GlobalIndexSortOrder=3
+GlobalIndexSortLocation=0
+
+[PrjClassGen]
+CompClassManualEnabled=0
+CompClassManualRoomEnabled=0
+NetClassAutoBusEnabled=1
+NetClassAutoCompEnabled=0
+NetClassAutoNamedHarnessEnabled=0
+NetClassManualEnabled=1
+NetClassSeparateForBusSections=0
+
+[LibraryUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Miscellaneous Connectors.IntLib
+ComponentDesignItemID0=Header 20X2
+ComponentSymbolReference0=Header 20X2
+ComponentUpdate0=0
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=Miscellaneous Connectors.IntLib
+ComponentDesignItemID1=Header 4
+ComponentSymbolReference1=Header 4
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=Miscellaneous Connectors.IntLib
+ComponentDesignItemID2=Header 6X2
+ComponentSymbolReference2=Header 6X2
+ComponentUpdate2=0
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=Miscellaneous Connectors.IntLib
+ComponentDesignItemID3=Header 7X2
+ComponentSymbolReference3=Header 7X2
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=Miscellaneous Devices.IntLib
+ComponentDesignItemID4=Cap
+ComponentSymbolReference4=Cap
+ComponentUpdate4=0
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=Miscellaneous Devices.IntLib
+ComponentDesignItemID5=Diode
+ComponentSymbolReference5=Diode
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=Miscellaneous Devices.IntLib
+ComponentDesignItemID6=Inductor
+ComponentSymbolReference6=Inductor
+ComponentUpdate6=0
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=Miscellaneous Devices.IntLib
+ComponentDesignItemID7=LED0
+ComponentSymbolReference7=LED0
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=Miscellaneous Devices.IntLib
+ComponentDesignItemID8=Res1
+ComponentSymbolReference8=Res1
+ComponentUpdate8=0
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=Miscellaneous Devices.IntLib
+ComponentDesignItemID9=Res2
+ComponentSymbolReference9=Res2
+ComponentUpdate9=0
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=Miscellaneous Devices.IntLib
+ComponentDesignItemID10=SW-PB
+ComponentSymbolReference10=SW-PB
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=Sean.SchLib
+ComponentDesignItemID11=CH340G
+ComponentSymbolReference11=CH340G
+ComponentUpdate11=0
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=Sean.SchLib
+ComponentDesignItemID12=POWER
+ComponentSymbolReference12=POWER
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=Sean.SchLib
+ComponentDesignItemID13=PTC
+ComponentSymbolReference13=PTC
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=Sean.SchLib
+ComponentDesignItemID14=SS8050
+ComponentSymbolReference14=SS8050
+ComponentUpdate14=0
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name And Type
+ComponentLibraryIdentifier15=Sean.SchLib
+ComponentDesignItemID15=USB_micro
+ComponentSymbolReference15=USB_micro
+ComponentUpdate15=1
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name And Type
+ComponentLibraryIdentifier16=ZYNQ7010_add.SchLib
+ComponentDesignItemID16=8P4R
+ComponentSymbolReference16=8P4R
+ComponentUpdate16=0
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name And Type
+ComponentLibraryIdentifier17=ZYNQ7010_add.SchLib
+ComponentDesignItemID17=SD_Card
+ComponentSymbolReference17=SD_Card
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Library Name And Type
+ComponentLibraryIdentifier18=ZYNQ7010_add.SchLib
+ComponentDesignItemID18=SGM706
+ComponentSymbolReference18=SGM706
+ComponentUpdate18=1
+ComponentIsDeviceSheet18=0
+ComponentLibIdentifierKind19=Library Name And Type
+ComponentLibraryIdentifier19=ZYNQ7010_add.SchLib
+ComponentDesignItemID19=Test
+ComponentSymbolReference19=Test
+ComponentUpdate19=0
+ComponentIsDeviceSheet19=0
+ComponentLibIdentifierKind20=Library Name And Type
+ComponentLibraryIdentifier20=ZYNQ7010_add.SchLib
+ComponentDesignItemID20=TPS563201
+ComponentSymbolReference20=TPS563201
+ComponentUpdate20=1
+ComponentIsDeviceSheet20=0
+ComponentLibIdentifierKind21=Library Name And Type
+ComponentLibraryIdentifier21=ZYNQ7010_add.SchLib
+ComponentDesignItemID21=W25Q128
+ComponentSymbolReference21=W25Q128
+ComponentUpdate21=1
+ComponentIsDeviceSheet21=0
+ComponentLibIdentifierKind22=Library Name And Type
+ComponentLibraryIdentifier22=龙井V1.IntLib
+ComponentDesignItemID22=MT41J128M16HA-125 IT
+ComponentSymbolReference22=MT41J128M16HA-125 IT
+ComponentUpdate22=1
+ComponentIsDeviceSheet22=0
+ComponentLibIdentifierKind23=Library Name And Type
+ComponentLibraryIdentifier23=龙井V1.IntLib
+ComponentDesignItemID23=TPS51200DRCR
+ComponentSymbolReference23=TPS51200DRCR
+ComponentUpdate23=1
+ComponentIsDeviceSheet23=0
+ComponentLibIdentifierKind24=Library Name And Type
+ComponentLibraryIdentifier24=龙井V1.IntLib
+ComponentDesignItemID24=XNLX-XC7Z020-CLG400
+ComponentSymbolReference24=XNLX-XC7Z020-CLG400
+ComponentUpdate24=1
+ComponentIsDeviceSheet24=0
+ComponentLibIdentifierKind25=Library Name And Type
+ComponentLibraryIdentifier25=龙井V1.IntLib
+ComponentDesignItemID25=XT-4pin
+ComponentSymbolReference25=XT-4pin
+ComponentUpdate25=1
+ComponentIsDeviceSheet25=0
+FullReplace=1
+UpdateDesignatorLock=1
+UpdatePartIDLock=1
+PreserveParameterLocations=1
+PreserveParameterVisibility=1
+DoGraphics=1
+DoParameters=1
+DoModels=1
+AddParameters=0
+RemoveParameters=0
+AddModels=1
+RemoveModels=1
+UpdateCurrentModels=1
+ParameterName0=Code_IEC
+ParameterUpdate0=1
+ParameterName1=Code_JEDEC
+ParameterUpdate1=1
+ParameterName2=Code_JEITA
+ParameterUpdate2=1
+ParameterName3=Comment
+ParameterUpdate3=1
+ParameterName4=Component Kind
+ParameterUpdate4=1
+ParameterName5=Description
+ParameterUpdate5=1
+ParameterName6=LatestRevisionDate
+ParameterUpdate6=1
+ParameterName7=LatestRevisionNote
+ParameterUpdate7=1
+ParameterName8=Library Reference
+ParameterUpdate8=1
+ParameterName9=Manufacturer
+ParameterUpdate9=1
+ParameterName10=PackageDescription
+ParameterUpdate10=1
+ParameterName11=PackageReference
+ParameterUpdate11=1
+ParameterName12=PackageVersion
+ParameterUpdate12=1
+ParameterName13=Published
+ParameterUpdate13=1
+ParameterName14=Publisher
+ParameterUpdate14=1
+ParameterName15=Value
+ParameterUpdate15=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=5032(P)
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=7050
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=8P4R
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=BGA400
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=C 0402_L
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=C 0402_M
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=C 0603_L
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=C 0603_M
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=C 0805_L
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=C 0805_M
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=C 1206_L
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=DC-005
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=DC10B
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=FBGA96
+ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=FU 0805
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=HDR1X4
+ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=HDR2X20
+ModelUpdate16=1
+ModelType17=PCBLIB
+ModelName17=HDR2X6
+ModelUpdate17=1
+ModelType18=PCBLIB
+ModelName18=IDC2.54-LI-2x7P
+ModelUpdate18=1
+ModelType19=PCBLIB
+ModelName19=L 0805
+ModelUpdate19=1
+ModelType20=PCBLIB
+ModelName20=LED 0603G
+ModelUpdate20=1
+ModelType21=PCBLIB
+ModelName21=LED 0603W
+ModelUpdate21=1
+ModelType22=PCBLIB
+ModelName22=Micro SD
+ModelUpdate22=1
+ModelType23=PCBLIB
+ModelName23=NR6045
+ModelUpdate23=1
+ModelType24=PCBLIB
+ModelName24=R 0402_L
+ModelUpdate24=1
+ModelType25=PCBLIB
+ModelName25=R 0603_L
+ModelUpdate25=1
+ModelType26=PCBLIB
+ModelName26=R 0805_L
+ModelUpdate26=1
+ModelType27=PCBLIB
+ModelName27=R 1206_L
+ModelUpdate27=1
+ModelType28=PCBLIB
+ModelName28=R 2010_M
+ModelUpdate28=1
+ModelType29=PCBLIB
+ModelName29=SMA
+ModelUpdate29=1
+ModelType30=PCBLIB
+ModelName30=SO-16_L
+ModelUpdate30=1
+ModelType31=PCBLIB
+ModelName31=SOP16_L
+ModelUpdate31=1
+ModelType32=PCBLIB
+ModelName32=SOP8_N
+ModelUpdate32=1
+ModelType33=PCBLIB
+ModelName33=SOP8W_L
+ModelUpdate33=1
+ModelType34=PCBLIB
+ModelName34=SOT23-3L
+ModelUpdate34=1
+ModelType35=PCBLIB
+ModelName35=SOT23-6N
+ModelUpdate35=1
+ModelType36=PCBLIB
+ModelName36=Test Point
+ModelUpdate36=1
+ModelType37=PCBLIB
+ModelName37=TSW SMD-3*6*4.3
+ModelUpdate37=1
+ModelType38=PCBLIB
+ModelName38=USB-MINI-A
+ModelUpdate38=1
+ModelType39=PCBLIB
+ModelName39=VSON
+ModelUpdate39=1
+ModelType40=PCBLIB
+ModelName40=VSON10
+ModelUpdate40=1
+ModelTypeGroup1=SI
+ModelTypeUpdate1=1
+ModelType41=SI
+ModelName41=Cap
+ModelUpdate41=1
+ModelType42=SI
+ModelName42=Connector
+ModelUpdate42=1
+ModelType43=SI
+ModelName43=Diode
+ModelUpdate43=1
+ModelType44=SI
+ModelName44=Inductor
+ModelUpdate44=1
+ModelType45=SI
+ModelName45=Res
+ModelUpdate45=1
+ModelTypeGroup2=SIM
+ModelTypeUpdate2=1
+ModelType46=SIM
+ModelName46=CAP
+ModelUpdate46=1
+ModelType47=SIM
+ModelName47=DIODE
+ModelUpdate47=1
+ModelType48=SIM
+ModelName48=INDUCTOR
+ModelUpdate48=1
+ModelType49=SIM
+ModelName49=LED0
+ModelUpdate49=1
+ModelType50=SIM
+ModelName50=RESISTOR
+ModelUpdate50=1
+
+[DatabaseUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+
+[NetInfos]
+Net1=NetName=BANK34_L1_N|NetColor=$006724DA
+Net2=NetName=BANK34_L1_P|NetColor=$006724DA
+Net3=NetName=BANK34_L10_N|NetColor=$006724DA
+Net4=NetName=BANK34_L10_P|NetColor=$006724DA
+Net5=NetName=BANK34_L11_N|NetColor=$006724DA
+Net6=NetName=BANK34_L11_P|NetColor=$006724DA
+Net7=NetName=BANK34_L12_N|NetColor=$006724DA
+Net8=NetName=BANK34_L13_N|NetColor=$006724DA
+Net9=NetName=BANK34_L13_P|NetColor=$006724DA
+Net10=NetName=BANK34_L14_N|NetColor=$006724DA
+Net11=NetName=BANK34_L14_P|NetColor=$006724DA
+Net12=NetName=BANK34_L15_N|NetColor=$006724DA
+Net13=NetName=BANK34_L15_P|NetColor=$006724DA
+Net14=NetName=BANK34_L16_N|NetColor=$006724DA
+Net15=NetName=BANK34_L16_P|NetColor=$006724DA
+Net16=NetName=BANK34_L17_N|NetColor=$006724DA
+Net17=NetName=BANK34_L17_P|NetColor=$006724DA
+Net18=NetName=BANK34_L18_N|NetColor=$006724DA
+Net19=NetName=BANK34_L18_P|NetColor=$006724DA
+Net20=NetName=BANK34_L19_N|NetColor=$006724DA
+Net21=NetName=BANK34_L19_P|NetColor=$006724DA
+Net22=NetName=BANK34_L2_N|NetColor=$006724DA
+Net23=NetName=BANK34_L2_P|NetColor=$006724DA
+Net24=NetName=BANK34_L20_N|NetColor=$006724DA
+Net25=NetName=BANK34_L20_P|NetColor=$006724DA
+Net26=NetName=BANK34_L21_N|NetColor=$006724DA
+Net27=NetName=BANK34_L21_P|NetColor=$006724DA
+Net28=NetName=BANK34_L22_N|NetColor=$006724DA
+Net29=NetName=BANK34_L22_P|NetColor=$006724DA
+Net30=NetName=BANK34_L23_N|NetColor=$006724DA
+Net31=NetName=BANK34_L23_P|NetColor=$006724DA
+Net32=NetName=BANK34_L24_N|NetColor=$006724DA
+Net33=NetName=BANK34_L24_P|NetColor=$006724DA
+Net34=NetName=BANK34_L3_N|NetColor=$006724DA
+Net35=NetName=BANK34_L3_P|NetColor=$006724DA
+Net36=NetName=BANK34_L4_N|NetColor=$006724DA
+Net37=NetName=BANK34_L4_P|NetColor=$006724DA
+Net38=NetName=BANK34_L5_N|NetColor=$006724DA
+Net39=NetName=BANK34_L5_P|NetColor=$006724DA
+Net40=NetName=BANK34_L6_N|NetColor=$006724DA
+Net41=NetName=BANK34_L6_P|NetColor=$006724DA
+Net42=NetName=BANK34_L7_N|NetColor=$006724DA
+Net43=NetName=BANK34_L7_P|NetColor=$006724DA
+Net44=NetName=BANK34_L8_N|NetColor=$006724DA
+Net45=NetName=BANK34_L8_P|NetColor=$006724DA
+Net46=NetName=BANK34_L9_N|NetColor=$006724DA
+Net47=NetName=BANK34_L9_P|NetColor=$006724DA
+Net48=NetName=BANK35_L1_N|NetColor=$00660066
+Net49=NetName=BANK35_L1_P|NetColor=$00660066
+Net50=NetName=BANK35_L10_N|NetColor=$00660066
+Net51=NetName=BANK35_L10_P|NetColor=$00660066
+Net52=NetName=BANK35_L11_N|NetColor=$00660066
+Net53=NetName=BANK35_L11_P|NetColor=$00660066
+Net54=NetName=BANK35_L12_N|NetColor=$00660066
+Net55=NetName=BANK35_L12_P|NetColor=$00660066
+Net56=NetName=BANK35_L13_N|NetColor=$00660066
+Net57=NetName=BANK35_L13_P|NetColor=$00660066
+Net58=NetName=BANK35_L14_N|NetColor=$00660066
+Net59=NetName=BANK35_L14_P|NetColor=$00660066
+Net60=NetName=BANK35_L15_N|NetColor=$00660066
+Net61=NetName=BANK35_L15_P|NetColor=$00660066
+Net62=NetName=BANK35_L16_N|NetColor=$00660066
+Net63=NetName=BANK35_L16_P|NetColor=$00660066
+Net64=NetName=BANK35_L17_N|NetColor=$00660066
+Net65=NetName=BANK35_L17_P|NetColor=$00660066
+Net66=NetName=BANK35_L18_N|NetColor=$00660066
+Net67=NetName=BANK35_L18_P|NetColor=$00660066
+Net68=NetName=BANK35_L19_N|NetColor=$00660066
+Net69=NetName=BANK35_L19_P|NetColor=$00660066
+Net70=NetName=BANK35_L2_N|NetColor=$00660066
+Net71=NetName=BANK35_L2_P|NetColor=$00660066
+Net72=NetName=BANK35_L20_N|NetColor=$00660066
+Net73=NetName=BANK35_L20_P|NetColor=$00660066
+Net74=NetName=BANK35_L21_N|NetColor=$00660066
+Net75=NetName=BANK35_L21_P|NetColor=$00660066
+Net76=NetName=BANK35_L22_N|NetColor=$00660066
+Net77=NetName=BANK35_L22_P|NetColor=$00660066
+Net78=NetName=BANK35_L23_N|NetColor=$00660066
+Net79=NetName=BANK35_L23_P|NetColor=$00660066
+Net80=NetName=BANK35_L24_N|NetColor=$00660066
+Net81=NetName=BANK35_L24_P|NetColor=$00660066
+Net82=NetName=BANK35_L3_N|NetColor=$00660066
+Net83=NetName=BANK35_L3_P|NetColor=$00660066
+Net84=NetName=BANK35_L4_N|NetColor=$00660066
+Net85=NetName=BANK35_L4_P|NetColor=$00660066
+Net86=NetName=BANK35_L5_N|NetColor=$00660066
+Net87=NetName=BANK35_L5_P|NetColor=$00660066
+Net88=NetName=BANK35_L6_N|NetColor=$00660066
+Net89=NetName=BANK35_L6_P|NetColor=$00660066
+Net90=NetName=BANK35_L7_N|NetColor=$00660066
+Net91=NetName=BANK35_L7_P|NetColor=$00660066
+Net92=NetName=BANK35_L8_N|NetColor=$00660066
+Net93=NetName=BANK35_L8_P|NetColor=$00660066
+Net94=NetName=BANK35_L9_N|NetColor=$00660066
+Net95=NetName=BANK35_L9_P|NetColor=$00660066
+Net96=NetName=BK34_EX_IO.1|NetColor=$006724DA
+Net97=NetName=BK34_EX_IO.10|NetColor=$006724DA
+Net98=NetName=BK34_EX_IO.11|NetColor=$006724DA
+Net99=NetName=BK34_EX_IO.12|NetColor=$006724DA
+Net100=NetName=BK34_EX_IO.13|NetColor=$006724DA
+Net101=NetName=BK34_EX_IO.14|NetColor=$006724DA
+Net102=NetName=BK34_EX_IO.15|NetColor=$006724DA
+Net103=NetName=BK34_EX_IO.16|NetColor=$006724DA
+Net104=NetName=BK34_EX_IO.17|NetColor=$006724DA
+Net105=NetName=BK34_EX_IO.18|NetColor=$006724DA
+Net106=NetName=BK34_EX_IO.19|NetColor=$006724DA
+Net107=NetName=BK34_EX_IO.2|NetColor=$006724DA
+Net108=NetName=BK34_EX_IO.20|NetColor=$006724DA
+Net109=NetName=BK34_EX_IO.21|NetColor=$006724DA
+Net110=NetName=BK34_EX_IO.22|NetColor=$006724DA
+Net111=NetName=BK34_EX_IO.24|NetColor=$006724DA
+Net112=NetName=BK34_EX_IO.25|NetColor=$006724DA
+Net113=NetName=BK34_EX_IO.26|NetColor=$006724DA
+Net114=NetName=BK34_EX_IO.27|NetColor=$006724DA
+Net115=NetName=BK34_EX_IO.28|NetColor=$006724DA
+Net116=NetName=BK34_EX_IO.29|NetColor=$006724DA
+Net117=NetName=BK34_EX_IO.3|NetColor=$006724DA
+Net118=NetName=BK34_EX_IO.30|NetColor=$006724DA
+Net119=NetName=BK34_EX_IO.31|NetColor=$006724DA
+Net120=NetName=BK34_EX_IO.32|NetColor=$006724DA
+Net121=NetName=BK34_EX_IO.33|NetColor=$006724DA
+Net122=NetName=BK34_EX_IO.34|NetColor=$006724DA
+Net123=NetName=BK34_EX_IO.35|NetColor=$006724DA
+Net124=NetName=BK34_EX_IO.4|NetColor=$006724DA
+Net125=NetName=BK34_EX_IO.46|NetColor=$006724DA
+Net126=NetName=BK34_EX_IO.47|NetColor=$006724DA
+Net127=NetName=BK34_EX_IO.7|NetColor=$006724DA
+Net128=NetName=BK34_EX_IO.8|NetColor=$006724DA
+Net129=NetName=BK34_EX_IO.9|NetColor=$006724DA
+Net130=NetName=BK35_EX_IO.1|NetColor=$00660066
+Net131=NetName=BK35_EX_IO.10|NetColor=$00660066
+Net132=NetName=BK35_EX_IO.11|NetColor=$00660066
+Net133=NetName=BK35_EX_IO.12|NetColor=$00660066
+Net134=NetName=BK35_EX_IO.13|NetColor=$00660066
+Net135=NetName=BK35_EX_IO.14|NetColor=$00660066
+Net136=NetName=BK35_EX_IO.15|NetColor=$00660066
+Net137=NetName=BK35_EX_IO.16|NetColor=$00660066
+Net138=NetName=BK35_EX_IO.17|NetColor=$00660066
+Net139=NetName=BK35_EX_IO.18|NetColor=$00660066
+Net140=NetName=BK35_EX_IO.19|NetColor=$00660066
+Net141=NetName=BK35_EX_IO.2|NetColor=$00660066
+Net142=NetName=BK35_EX_IO.20|NetColor=$00660066
+Net143=NetName=BK35_EX_IO.21|NetColor=$00660066
+Net144=NetName=BK35_EX_IO.22|NetColor=$00660066
+Net145=NetName=BK35_EX_IO.23|NetColor=$00660066
+Net146=NetName=BK35_EX_IO.24|NetColor=$00660066
+Net147=NetName=BK35_EX_IO.25|NetColor=$00660066
+Net148=NetName=BK35_EX_IO.26|NetColor=$00660066
+Net149=NetName=BK35_EX_IO.27|NetColor=$00660066
+Net150=NetName=BK35_EX_IO.28|NetColor=$00660066
+Net151=NetName=BK35_EX_IO.29|NetColor=$00660066
+Net152=NetName=BK35_EX_IO.3|NetColor=$00660066
+Net153=NetName=BK35_EX_IO.30|NetColor=$00660066
+Net154=NetName=BK35_EX_IO.31|NetColor=$00660066
+Net155=NetName=BK35_EX_IO.32|NetColor=$00660066
+Net156=NetName=BK35_EX_IO.33|NetColor=$00660066
+Net157=NetName=BK35_EX_IO.34|NetColor=$00660066
+Net158=NetName=BK35_EX_IO.4|NetColor=$00660066
+Net159=NetName=BK35_EX_IO.5|NetColor=$00660066
+Net160=NetName=BK35_EX_IO.6|NetColor=$00660066
+Net161=NetName=BK35_EX_IO.7|NetColor=$00660066
+Net162=NetName=BK35_EX_IO.8|NetColor=$00660066
+Net163=NetName=BK35_EX_IO.9|NetColor=$00660066
+Net164=NetName=DDR DQS.DDR_DQS0_N|NetColor=$0000BE00
+Net165=NetName=DDR DQS.DDR_DQS0_P|NetColor=$0000BE00
+Net166=NetName=DDR DQS.DDR_DQS1_N|NetColor=$0000BE00
+Net167=NetName=DDR DQS.DDR_DQS1_P|NetColor=$0000BE00
+Net168=NetName=DDR DQS.DDR_DQS2_N|NetColor=$0000BE00
+Net169=NetName=DDR DQS.DDR_DQS2_P|NetColor=$0000BE00
+Net170=NetName=DDR DQS.DDR_DQS3_N|NetColor=$0000BE00
+Net171=NetName=DDR DQS.DDR_DQS3_P|NetColor=$0000BE00
+Net172=NetName=DDR.DDR_A[0..15]|NetColor=$00FFFF6E
+Net173=NetName=DDR.DDR_A0|NetColor=$00FFFF6E
+Net174=NetName=DDR.DDR_A1|NetColor=$00FFFF6E
+Net175=NetName=DDR.DDR_A10|NetColor=$00FFFF6E
+Net176=NetName=DDR.DDR_A11|NetColor=$00FFFF6E
+Net177=NetName=DDR.DDR_A12|NetColor=$00FFFF6E
+Net178=NetName=DDR.DDR_A13|NetColor=$00FFFF6E
+Net179=NetName=DDR.DDR_A14|NetColor=$00FFFF6E
+Net180=NetName=DDR.DDR_A15|NetColor=$00FFFF6E
+Net181=NetName=DDR.DDR_A2|NetColor=$00FFFF6E
+Net182=NetName=DDR.DDR_A3|NetColor=$00FFFF6E
+Net183=NetName=DDR.DDR_A4|NetColor=$00FFFF6E
+Net184=NetName=DDR.DDR_A5|NetColor=$00FFFF6E
+Net185=NetName=DDR.DDR_A6|NetColor=$00FFFF6E
+Net186=NetName=DDR.DDR_A7|NetColor=$00FFFF6E
+Net187=NetName=DDR.DDR_A8|NetColor=$00FFFF6E
+Net188=NetName=DDR.DDR_A9|NetColor=$00FFFF6E
+Net189=NetName=DDR.DDR_BA[0..2]|NetColor=$00FFFF6E
+Net190=NetName=DDR.DDR_BA0|NetColor=$00FFFF6E
+Net191=NetName=DDR.DDR_BA1|NetColor=$00FFFF6E
+Net192=NetName=DDR.DDR_BA2|NetColor=$00FFFF6E
+Net193=NetName=DDR.DDR_CAS|NetColor=$00FFFF6E
+Net194=NetName=DDR.DDR_CKE|NetColor=$00FFFF6E
+Net195=NetName=DDR.DDR_CKN|NetColor=$00FFFF6E
+Net196=NetName=DDR.DDR_CKP|NetColor=$00FFFF6E
+Net197=NetName=DDR.DDR_CS|NetColor=$00FFFF6E
+Net198=NetName=DDR.DDR_DATA_Byte0.DDR_DM0|NetColor=$0000BE00
+Net199=NetName=DDR.DDR_DATA_Byte0.DDR_DQ0|NetColor=$0000BE00
+Net200=NetName=DDR.DDR_DATA_Byte0.DDR_DQ1|NetColor=$0000BE00
+Net201=NetName=DDR.DDR_DATA_Byte0.DDR_DQ2|NetColor=$0000BE00
+Net202=NetName=DDR.DDR_DATA_Byte0.DDR_DQ3|NetColor=$0000BE00
+Net203=NetName=DDR.DDR_DATA_Byte0.DDR_DQ4|NetColor=$0000BE00
+Net204=NetName=DDR.DDR_DATA_Byte0.DDR_DQ5|NetColor=$0000BE00
+Net205=NetName=DDR.DDR_DATA_Byte0.DDR_DQ6|NetColor=$0000BE00
+Net206=NetName=DDR.DDR_DATA_Byte0.DDR_DQ7|NetColor=$0000BE00
+Net207=NetName=DDR.DDR_DATA_Byte0.DDR_DQS0_N|NetColor=$0000BE00
+Net208=NetName=DDR.DDR_DATA_Byte0.DDR_DQS0_P|NetColor=$0000BE00
+Net209=NetName=DDR.DDR_DATA_Byte1.DDR_DM1|NetColor=$0000BE00
+Net210=NetName=DDR.DDR_DATA_Byte1.DDR_DQ10|NetColor=$0000BE00
+Net211=NetName=DDR.DDR_DATA_Byte1.DDR_DQ11|NetColor=$0000BE00
+Net212=NetName=DDR.DDR_DATA_Byte1.DDR_DQ12|NetColor=$0000BE00
+Net213=NetName=DDR.DDR_DATA_Byte1.DDR_DQ13|NetColor=$0000BE00
+Net214=NetName=DDR.DDR_DATA_Byte1.DDR_DQ14|NetColor=$0000BE00
+Net215=NetName=DDR.DDR_DATA_Byte1.DDR_DQ15|NetColor=$0000BE00
+Net216=NetName=DDR.DDR_DATA_Byte1.DDR_DQ8|NetColor=$0000BE00
+Net217=NetName=DDR.DDR_DATA_Byte1.DDR_DQ9|NetColor=$0000BE00
+Net218=NetName=DDR.DDR_DATA_Byte1.DDR_DQS1_N|NetColor=$0000BE00
+Net219=NetName=DDR.DDR_DATA_Byte1.DDR_DQS1_P|NetColor=$0000BE00
+Net220=NetName=DDR.DDR_DATA_Byte2.DDR_DM2|NetColor=$0000BE00
+Net221=NetName=DDR.DDR_DATA_Byte2.DDR_DQ16|NetColor=$0000BE00
+Net222=NetName=DDR.DDR_DATA_Byte2.DDR_DQ17|NetColor=$0000BE00
+Net223=NetName=DDR.DDR_DATA_Byte2.DDR_DQ18|NetColor=$0000BE00
+Net224=NetName=DDR.DDR_DATA_Byte2.DDR_DQ19|NetColor=$0000BE00
+Net225=NetName=DDR.DDR_DATA_Byte2.DDR_DQ20|NetColor=$0000BE00
+Net226=NetName=DDR.DDR_DATA_Byte2.DDR_DQ21|NetColor=$0000BE00
+Net227=NetName=DDR.DDR_DATA_Byte2.DDR_DQ22|NetColor=$0000BE00
+Net228=NetName=DDR.DDR_DATA_Byte2.DDR_DQ23|NetColor=$0000BE00
+Net229=NetName=DDR.DDR_DATA_Byte2.DDR_DQS2_N|NetColor=$0000BE00
+Net230=NetName=DDR.DDR_DATA_Byte2.DDR_DQS2_P|NetColor=$0000BE00
+Net231=NetName=DDR.DDR_DATA_Byte3.DDR_DM3|NetColor=$0000BE00
+Net232=NetName=DDR.DDR_DATA_Byte3.DDR_DQ24|NetColor=$0000BE00
+Net233=NetName=DDR.DDR_DATA_Byte3.DDR_DQ25|NetColor=$0000BE00
+Net234=NetName=DDR.DDR_DATA_Byte3.DDR_DQ26|NetColor=$0000BE00
+Net235=NetName=DDR.DDR_DATA_Byte3.DDR_DQ27|NetColor=$0000BE00
+Net236=NetName=DDR.DDR_DATA_Byte3.DDR_DQ28|NetColor=$0000BE00
+Net237=NetName=DDR.DDR_DATA_Byte3.DDR_DQ29|NetColor=$0000BE00
+Net238=NetName=DDR.DDR_DATA_Byte3.DDR_DQ30|NetColor=$0000BE00
+Net239=NetName=DDR.DDR_DATA_Byte3.DDR_DQ31|NetColor=$0000BE00
+Net240=NetName=DDR.DDR_DATA_Byte3.DDR_DQS3_N|NetColor=$0000BE00
+Net241=NetName=DDR.DDR_DATA_Byte3.DDR_DQS3_P|NetColor=$0000BE00
+Net242=NetName=DDR.DDR_DM[0..1]|NetColor=$0000BE00
+Net243=NetName=DDR.DDR_DM0|NetColor=$0000BE00
+Net244=NetName=DDR.DDR_DM1|NetColor=$0000BE00
+Net245=NetName=DDR.DDR_DM2|NetColor=$0000BE00
+Net246=NetName=DDR.DDR_DM3|NetColor=$0000BE00
+Net247=NetName=DDR.DDR_DQ[0..15]|NetColor=$0000BE00
+Net248=NetName=DDR.DDR_DQ[0..31]|NetColor=$0000BE00
+Net249=NetName=DDR.DDR_DQ0|NetColor=$0000BE00
+Net250=NetName=DDR.DDR_DQ1|NetColor=$0000BE00
+Net251=NetName=DDR.DDR_DQ10|NetColor=$0000BE00
+Net252=NetName=DDR.DDR_DQ11|NetColor=$0000BE00
+Net253=NetName=DDR.DDR_DQ12|NetColor=$0000BE00
+Net254=NetName=DDR.DDR_DQ13|NetColor=$0000BE00
+Net255=NetName=DDR.DDR_DQ14|NetColor=$0000BE00
+Net256=NetName=DDR.DDR_DQ15|NetColor=$0000BE00
+Net257=NetName=DDR.DDR_DQ16|NetColor=$0000BE00
+Net258=NetName=DDR.DDR_DQ17|NetColor=$0000BE00
+Net259=NetName=DDR.DDR_DQ18|NetColor=$0000BE00
+Net260=NetName=DDR.DDR_DQ19|NetColor=$0000BE00
+Net261=NetName=DDR.DDR_DQ2|NetColor=$0000BE00
+Net262=NetName=DDR.DDR_DQ20|NetColor=$0000BE00
+Net263=NetName=DDR.DDR_DQ21|NetColor=$0000BE00
+Net264=NetName=DDR.DDR_DQ22|NetColor=$0000BE00
+Net265=NetName=DDR.DDR_DQ23|NetColor=$0000BE00
+Net266=NetName=DDR.DDR_DQ24|NetColor=$0000BE00
+Net267=NetName=DDR.DDR_DQ25|NetColor=$0000BE00
+Net268=NetName=DDR.DDR_DQ26|NetColor=$0000BE00
+Net269=NetName=DDR.DDR_DQ27|NetColor=$0000BE00
+Net270=NetName=DDR.DDR_DQ28|NetColor=$0000BE00
+Net271=NetName=DDR.DDR_DQ29|NetColor=$0000BE00
+Net272=NetName=DDR.DDR_DQ3|NetColor=$0000BE00
+Net273=NetName=DDR.DDR_DQ30|NetColor=$0000BE00
+Net274=NetName=DDR.DDR_DQ31|NetColor=$0000BE00
+Net275=NetName=DDR.DDR_DQ4|NetColor=$0000BE00
+Net276=NetName=DDR.DDR_DQ5|NetColor=$0000BE00
+Net277=NetName=DDR.DDR_DQ6|NetColor=$0000BE00
+Net278=NetName=DDR.DDR_DQ7|NetColor=$0000BE00
+Net279=NetName=DDR.DDR_DQ8|NetColor=$0000BE00
+Net280=NetName=DDR.DDR_DQ9|NetColor=$0000BE00
+Net281=NetName=DDR.DDR_DQS.DDR_DQS0_N|NetColor=$0000BE00
+Net282=NetName=DDR.DDR_DQS.DDR_DQS0_P|NetColor=$0000BE00
+Net283=NetName=DDR.DDR_DQS.DDR_DQS1_N|NetColor=$0000BE00
+Net284=NetName=DDR.DDR_DQS.DDR_DQS1_P|NetColor=$0000BE00
+Net285=NetName=DDR.DDR_DQS.DDR_DQS2_N|NetColor=$0000BE00
+Net286=NetName=DDR.DDR_DQS.DDR_DQS2_P|NetColor=$0000BE00
+Net287=NetName=DDR.DDR_DQS.DDR_DQS3_N|NetColor=$0000BE00
+Net288=NetName=DDR.DDR_DQS.DDR_DQS3_P|NetColor=$0000BE00
+Net289=NetName=DDR.DDR_DQS0_N|NetColor=$0000BE00
+Net290=NetName=DDR.DDR_DQS0_P|NetColor=$0000BE00
+Net291=NetName=DDR.DDR_DQS1_N|NetColor=$0000BE00
+Net292=NetName=DDR.DDR_DQS1_P|NetColor=$0000BE00
+Net293=NetName=DDR.DDR_ODT|NetColor=$00FFFF6E
+Net294=NetName=DDR.DDR_RAS|NetColor=$00FFFF6E
+Net295=NetName=DDR.DDR_RESET|NetColor=$00FFFF6E
+Net296=NetName=DDR.DDR_WE|NetColor=$00FFFF6E
+Net297=NetName=DDR_A[0..14]|NetColor=$00FFFF6E
+Net298=NetName=DDR_A[0..15]|NetColor=$00FFFF6E
+Net299=NetName=DDR_A0|NetColor=$00FFFF6E
+Net300=NetName=DDR_A1|NetColor=$00FFFF6E
+Net301=NetName=DDR_A10|NetColor=$00FFFF6E
+Net302=NetName=DDR_A11|NetColor=$00FFFF6E
+Net303=NetName=DDR_A12|NetColor=$00FFFF6E
+Net304=NetName=DDR_A13|NetColor=$00FFFF6E
+Net305=NetName=DDR_A14|NetColor=$00FFFF6E
+Net306=NetName=DDR_A15|NetColor=$00FFFF6E
+Net307=NetName=DDR_A2|NetColor=$00FFFF6E
+Net308=NetName=DDR_A3|NetColor=$00FFFF6E
+Net309=NetName=DDR_A4|NetColor=$00FFFF6E
+Net310=NetName=DDR_A5|NetColor=$00FFFF6E
+Net311=NetName=DDR_A6|NetColor=$00FFFF6E
+Net312=NetName=DDR_A7|NetColor=$00FFFF6E
+Net313=NetName=DDR_A8|NetColor=$00FFFF6E
+Net314=NetName=DDR_A9|NetColor=$00FFFF6E
+Net315=NetName=DDR_BA[0..2]|NetColor=$00FFFF6E
+Net316=NetName=DDR_BA0|NetColor=$00FFFF6E
+Net317=NetName=DDR_BA1|NetColor=$00FFFF6E
+Net318=NetName=DDR_BA2|NetColor=$00FFFF6E
+Net319=NetName=DDR_CAS|NetColor=$00FFFF6E
+Net320=NetName=DDR_CK_N|NetColor=$00FFFF6E
+Net321=NetName=DDR_CK_P|NetColor=$00FFFF6E
+Net322=NetName=DDR_CKE|NetColor=$00FFFF6E
+Net323=NetName=DDR_CS|NetColor=$00FFFF6E
+Net324=NetName=DDR_DATA_Byte0.DDR_DM0|NetColor=$0000BE00
+Net325=NetName=DDR_DATA_Byte0.DDR_DQS0_N|NetColor=$0000BE00
+Net326=NetName=DDR_DATA_Byte0.DDR_DQS0_P|NetColor=$0000BE00
+Net327=NetName=DDR_DATA_Byte1.DDR_DM1|NetColor=$0000BE00
+Net328=NetName=DDR_DATA_Byte1.DDR_DQS1_N|NetColor=$0000BE00
+Net329=NetName=DDR_DATA_Byte1.DDR_DQS1_P|NetColor=$0000BE00
+Net330=NetName=DDR_DATA_Byte2.DDR_DM2|NetColor=$0000BE00
+Net331=NetName=DDR_DATA_Byte2.DDR_DQS2_N|NetColor=$0000BE00
+Net332=NetName=DDR_DATA_Byte2.DDR_DQS2_P|NetColor=$0000BE00
+Net333=NetName=DDR_DATA_Byte3.DDR_DM3|NetColor=$0000BE00
+Net334=NetName=DDR_DATA_Byte3.DDR_DQS3_N|NetColor=$0000BE00
+Net335=NetName=DDR_DATA_Byte3.DDR_DQS3_P|NetColor=$0000BE00
+Net336=NetName=DDR_DM[0..1]|NetColor=$0000BE00
+Net337=NetName=DDR_DM0|NetColor=$0000BE00
+Net338=NetName=DDR_DM1|NetColor=$0000BE00
+Net339=NetName=DDR_DM2|NetColor=$0000BE00
+Net340=NetName=DDR_DM3|NetColor=$0000BE00
+Net341=NetName=DDR_DQ[0..15]|NetColor=$0000BE00
+Net342=NetName=DDR_DQ[0..31]|NetColor=$0000BE00
+Net343=NetName=DDR_DQ0|NetColor=$0000BE00
+Net344=NetName=DDR_DQ1|NetColor=$0000BE00
+Net345=NetName=DDR_DQ10|NetColor=$0000BE00
+Net346=NetName=DDR_DQ11|NetColor=$0000BE00
+Net347=NetName=DDR_DQ12|NetColor=$0000BE00
+Net348=NetName=DDR_DQ13|NetColor=$0000BE00
+Net349=NetName=DDR_DQ14|NetColor=$0000BE00
+Net350=NetName=DDR_DQ15|NetColor=$0000BE00
+Net351=NetName=DDR_DQ16|NetColor=$0000BE00
+Net352=NetName=DDR_DQ17|NetColor=$0000BE00
+Net353=NetName=DDR_DQ18|NetColor=$0000BE00
+Net354=NetName=DDR_DQ19|NetColor=$0000BE00
+Net355=NetName=DDR_DQ2|NetColor=$0000BE00
+Net356=NetName=DDR_DQ20|NetColor=$0000BE00
+Net357=NetName=DDR_DQ21|NetColor=$0000BE00
+Net358=NetName=DDR_DQ22|NetColor=$0000BE00
+Net359=NetName=DDR_DQ23|NetColor=$0000BE00
+Net360=NetName=DDR_DQ24|NetColor=$0000BE00
+Net361=NetName=DDR_DQ25|NetColor=$0000BE00
+Net362=NetName=DDR_DQ26|NetColor=$0000BE00
+Net363=NetName=DDR_DQ27|NetColor=$0000BE00
+Net364=NetName=DDR_DQ28|NetColor=$0000BE00
+Net365=NetName=DDR_DQ29|NetColor=$0000BE00
+Net366=NetName=DDR_DQ3|NetColor=$0000BE00
+Net367=NetName=DDR_DQ30|NetColor=$0000BE00
+Net368=NetName=DDR_DQ31|NetColor=$0000BE00
+Net369=NetName=DDR_DQ4|NetColor=$0000BE00
+Net370=NetName=DDR_DQ5|NetColor=$0000BE00
+Net371=NetName=DDR_DQ6|NetColor=$0000BE00
+Net372=NetName=DDR_DQ7|NetColor=$0000BE00
+Net373=NetName=DDR_DQ8|NetColor=$0000BE00
+Net374=NetName=DDR_DQ9|NetColor=$0000BE00
+Net375=NetName=DDR_DQS0_N|NetColor=$0000BE00
+Net376=NetName=DDR_DQS0_P|NetColor=$0000BE00
+Net377=NetName=DDR_DQS1_N|NetColor=$0000BE00
+Net378=NetName=DDR_DQS1_P|NetColor=$0000BE00
+Net379=NetName=DDR_ODT|NetColor=$00FFFF6E
+Net380=NetName=DDR_RAS|NetColor=$00FFFF6E
+Net381=NetName=DDR_RESET|NetColor=$00FFFF6E
+Net382=NetName=DDR_WE|NetColor=$00FFFF6E
+Net383=NetName=ETHERNET.TCP_MDC|NetColor=$00C5DEE5
+Net384=NetName=ETHERNET.TCP_MDIO|NetColor=$00C5DEE5
+Net385=NetName=ETHERNET.TCP_RXC|NetColor=$00C5DEE5
+Net386=NetName=ETHERNET.TCP_RXCTL|NetColor=$00C5DEE5
+Net387=NetName=ETHERNET.TCP_RXD[0..3]|NetColor=$00C5DEE5
+Net388=NetName=ETHERNET.TCP_RXD0|NetColor=$00C5DEE5
+Net389=NetName=ETHERNET.TCP_RXD1|NetColor=$00C5DEE5
+Net390=NetName=ETHERNET.TCP_RXD2|NetColor=$00C5DEE5
+Net391=NetName=ETHERNET.TCP_RXD3|NetColor=$00C5DEE5
+Net392=NetName=ETHERNET.TCP_RXTCL|NetColor=$00C5DEE5
+Net393=NetName=ETHERNET.TCP_TXC|NetColor=$00C5DEE5
+Net394=NetName=ETHERNET.TCP_TXD[0..3]|NetColor=$00C5DEE5
+Net395=NetName=ETHERNET.TCP_TXD0|NetColor=$00C5DEE5
+Net396=NetName=ETHERNET.TCP_TXD1|NetColor=$00C5DEE5
+Net397=NetName=ETHERNET.TCP_TXD2|NetColor=$00C5DEE5
+Net398=NetName=ETHERNET.TCP_TXD3|NetColor=$00C5DEE5
+Net399=NetName=ETHERNET.TCP_TXTCL|NetColor=$00C5DEE5
+Net400=NetName=N00000|NetColor=$00FFFF6E
+Net401=NetName=OTG_CLK|NetColor=$000083FD
+Net402=NetName=OTG_DATA[0..7]|NetColor=$000083FD
+Net403=NetName=OTG_DATA0|NetColor=$000083FD
+Net404=NetName=OTG_DATA1|NetColor=$000083FD
+Net405=NetName=OTG_DATA2|NetColor=$000083FD
+Net406=NetName=OTG_DATA3|NetColor=$000083FD
+Net407=NetName=OTG_DATA4|NetColor=$000083FD
+Net408=NetName=OTG_DATA5|NetColor=$000083FD
+Net409=NetName=OTG_DATA6|NetColor=$000083FD
+Net410=NetName=OTG_DATA7|NetColor=$000083FD
+Net411=NetName=OTG_DIR|NetColor=$000083FD
+Net412=NetName=OTG_NXT|NetColor=$000083FD
+Net413=NetName=OTG_RESETN|NetColor=$000083FD
+Net414=NetName=OTG_STP|NetColor=$000083FD
+Net415=NetName=PL_H_INTERFACE.PL_KEY0|NetColor=$006724DA
+Net416=NetName=PL_H_INTERFACE.PL_KEY1|NetColor=$006724DA
+Net417=NetName=PL_H_INTERFACE.PL_KEY2|NetColor=$006724DA
+Net418=NetName=PL_H_INTERFACE.PL_KEY3|NetColor=$006724DA
+Net419=NetName=PL_H_INTERFACE.PL_LED0|NetColor=$006724DA
+Net420=NetName=PL_H_INTERFACE.PL_LED3|NetColor=$006724DA
+Net421=NetName=PL_KEY1|NetColor=$006724DA
+Net422=NetName=PL_KEY2|NetColor=$006724DA
+Net423=NetName=PL_KEY3|NetColor=$006724DA
+Net424=NetName=PL_KEY4|NetColor=$006724DA
+Net425=NetName=PL_LED1|NetColor=$006724DA
+Net426=NetName=PL_LED4|NetColor=$006724DA
+Net427=NetName=PU_A[0..14]|NetColor=$00FFFF6E
+Net428=NetName=PU_A0|NetColor=$00FFFF6E
+Net429=NetName=PU_A1|NetColor=$00FFFF6E
+Net430=NetName=PU_A10|NetColor=$00FFFF6E
+Net431=NetName=PU_A11|NetColor=$00FFFF6E
+Net432=NetName=PU_A12|NetColor=$00FFFF6E
+Net433=NetName=PU_A13|NetColor=$00FFFF6E
+Net434=NetName=PU_A14|NetColor=$00FFFF6E
+Net435=NetName=PU_A2|NetColor=$00FFFF6E
+Net436=NetName=PU_A3|NetColor=$00FFFF6E
+Net437=NetName=PU_A4|NetColor=$00FFFF6E
+Net438=NetName=PU_A5|NetColor=$00FFFF6E
+Net439=NetName=PU_A6|NetColor=$00FFFF6E
+Net440=NetName=PU_A7|NetColor=$00FFFF6E
+Net441=NetName=PU_A8|NetColor=$00FFFF6E
+Net442=NetName=PU_A9|NetColor=$00FFFF6E
+Net443=NetName=PU_BA0|NetColor=$00FFFF6E
+Net444=NetName=PU_BA1|NetColor=$00FFFF6E
+Net445=NetName=PU_BA2|NetColor=$00FFFF6E
+Net446=NetName=PU_CAS|NetColor=$00FFFF6E
+Net447=NetName=PU_CKE|NetColor=$00FFFF6E
+Net448=NetName=PU_CS|NetColor=$00FFFF6E
+Net449=NetName=PU_ODT|NetColor=$00FFFF6E
+Net450=NetName=PU_RAS|NetColor=$00FFFF6E
+Net451=NetName=PU_WE|NetColor=$00FFFF6E
+Net452=NetName=SDIO.SDIO_CD|NetColor=$00FF6E6E
+Net453=NetName=SDIO.SDIO_CLK|NetColor=$00FF6E6E
+Net454=NetName=SDIO.SDIO_CMD|NetColor=$00FF6E6E
+Net455=NetName=SDIO.SDIO_D[0..3]|NetColor=$00FF6E6E
+Net456=NetName=SDIO.SDIO_D0|NetColor=$00FF6E6E
+Net457=NetName=SDIO.SDIO_D1|NetColor=$00FF6E6E
+Net458=NetName=SDIO.SDIO_D2|NetColor=$00FF6E6E
+Net459=NetName=SDIO.SDIO_D3|NetColor=$00FF6E6E
+Net460=NetName=SDIO_CD|NetColor=$00FF6E6E
+Net461=NetName=SDIO_CLK|NetColor=$00FF6E6E
+Net462=NetName=SDIO_CMD|NetColor=$00FF6E6E
+Net463=NetName=SDIO_D[0..3]|NetColor=$00FF6E6E
+Net464=NetName=SDIO_D0|NetColor=$00FF6E6E
+Net465=NetName=SDIO_D1|NetColor=$00FF6E6E
+Net466=NetName=SDIO_D2|NetColor=$00FF6E6E
+Net467=NetName=SDIO_D3|NetColor=$00FF6E6E
+Net468=NetName=TCP_MDC|NetColor=$00C5DEE5
+Net469=NetName=TCP_MDIO|NetColor=$00C5DEE5
+Net470=NetName=TCP_RXC|NetColor=$00C5DEE5
+Net471=NetName=TCP_RXCTL|NetColor=$00C5DEE5
+Net472=NetName=TCP_RXD[0..3]|NetColor=$00C5DEE5
+Net473=NetName=TCP_RXD0|NetColor=$00C5DEE5
+Net474=NetName=TCP_RXD1|NetColor=$00C5DEE5
+Net475=NetName=TCP_RXD2|NetColor=$00C5DEE5
+Net476=NetName=TCP_RXD3|NetColor=$00C5DEE5
+Net477=NetName=TCP_RXTCL|NetColor=$00C5DEE5
+Net478=NetName=TCP_TXC|NetColor=$00C5DEE5
+Net479=NetName=TCP_TXD[0..3]|NetColor=$00C5DEE5
+Net480=NetName=TCP_TXD0|NetColor=$00C5DEE5
+Net481=NetName=TCP_TXD1|NetColor=$00C5DEE5
+Net482=NetName=TCP_TXD2|NetColor=$00C5DEE5
+Net483=NetName=TCP_TXD3|NetColor=$00C5DEE5
+Net484=NetName=TCP_TXTCL|NetColor=$00C5DEE5
+Net485=NetName=USB_OTG.OTG_CLK|NetColor=$000083FD
+Net486=NetName=USB_OTG.OTG_DATA[0..7]|NetColor=$000083FD
+Net487=NetName=USB_OTG.OTG_DATA0|NetColor=$000083FD
+Net488=NetName=USB_OTG.OTG_DATA1|NetColor=$000083FD
+Net489=NetName=USB_OTG.OTG_DATA2|NetColor=$000083FD
+Net490=NetName=USB_OTG.OTG_DATA3|NetColor=$000083FD
+Net491=NetName=USB_OTG.OTG_DATA4|NetColor=$000083FD
+Net492=NetName=USB_OTG.OTG_DATA5|NetColor=$000083FD
+Net493=NetName=USB_OTG.OTG_DATA6|NetColor=$000083FD
+Net494=NetName=USB_OTG.OTG_DATA7|NetColor=$000083FD
+Net495=NetName=USB_OTG.OTG_DIR|NetColor=$000083FD
+Net496=NetName=USB_OTG.OTG_NXT|NetColor=$000083FD
+Net497=NetName=USB_OTG.OTG_RESETN|NetColor=$000083FD
+Net498=NetName=USB_OTG.OTG_STP|NetColor=$000083FD
+
+[Comparison Options]
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration_Name1=OutputConfigurationParameter1
+Configuration_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name2=OutputConfigurationParameter2
+Configuration_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=TOP01|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name3=OutputConfigurationParameter3
+Configuration_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name4=OutputConfigurationParameter4
+Configuration_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name5=OutputConfigurationParameter5
+Configuration_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name6=OutputConfigurationParameter6
+Configuration_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name7=OutputConfigurationParameter7
+Configuration_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name8=OutputConfigurationParameter8
+Configuration_Item8=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=1|Mirror=False|Name=GND02|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name9=OutputConfigurationParameter9
+Configuration_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name10=OutputConfigurationParameter10
+Configuration_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MidLayer3|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name11=OutputConfigurationParameter11
+Configuration_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name12=OutputConfigurationParameter12
+Configuration_Item12=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name13=OutputConfigurationParameter13
+Configuration_Item13=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name14=OutputConfigurationParameter14
+Configuration_Item14=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=2|Mirror=False|Name=PWR03|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name15=OutputConfigurationParameter15
+Configuration_Item15=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name16=OutputConfigurationParameter16
+Configuration_Item16=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MidLayer1|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name17=OutputConfigurationParameter17
+Configuration_Item17=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name18=OutputConfigurationParameter18
+Configuration_Item18=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name19=OutputConfigurationParameter19
+Configuration_Item19=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name20=OutputConfigurationParameter20
+Configuration_Item20=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=3|Mirror=False|Name=SIG04|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name21=OutputConfigurationParameter21
+Configuration_Item21=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name22=OutputConfigurationParameter22
+Configuration_Item22=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MidLayer2|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name23=OutputConfigurationParameter23
+Configuration_Item23=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name24=OutputConfigurationParameter24
+Configuration_Item24=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name25=OutputConfigurationParameter25
+Configuration_Item25=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name26=OutputConfigurationParameter26
+Configuration_Item26=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=4|Mirror=False|Name=GND05|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name27=OutputConfigurationParameter27
+Configuration_Item27=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=4|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name28=OutputConfigurationParameter28
+Configuration_Item28=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MidLayer4|Polygon=Full|PrintOutIndex=4|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name29=OutputConfigurationParameter29
+Configuration_Item29=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=4|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name30=OutputConfigurationParameter30
+Configuration_Item30=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=4|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name31=OutputConfigurationParameter31
+Configuration_Item31=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=4|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name32=OutputConfigurationParameter32
+Configuration_Item32=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=5|Mirror=False|Name=BOT06|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name33=OutputConfigurationParameter33
+Configuration_Item33=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=5|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name34=OutputConfigurationParameter34
+Configuration_Item34=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomLayer|Polygon=Full|PrintOutIndex=5|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name35=OutputConfigurationParameter35
+Configuration_Item35=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=5|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name36=OutputConfigurationParameter36
+Configuration_Item36=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=5|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name37=OutputConfigurationParameter37
+Configuration_Item37=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=5|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name38=OutputConfigurationParameter38
+Configuration_Item38=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=6|Mirror=False|Name=Top Silkscreen Overlay|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name39=OutputConfigurationParameter39
+Configuration_Item39=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopOverlay|Polygon=Full|PrintOutIndex=6|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name40=OutputConfigurationParameter40
+Configuration_Item40=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=6|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name41=OutputConfigurationParameter41
+Configuration_Item41=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=6|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name42=OutputConfigurationParameter42
+Configuration_Item42=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=6|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name43=OutputConfigurationParameter43
+Configuration_Item43=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=7|Mirror=False|Name=Bottom Silkscreen Overlay|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name44=OutputConfigurationParameter44
+Configuration_Item44=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomOverlay|Polygon=Full|PrintOutIndex=7|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name45=OutputConfigurationParameter45
+Configuration_Item45=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=7|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name46=OutputConfigurationParameter46
+Configuration_Item46=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=7|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name47=OutputConfigurationParameter47
+Configuration_Item47=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=7|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name48=OutputConfigurationParameter48
+Configuration_Item48=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=8|Mirror=False|Name=Top Paste Mask Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name49=OutputConfigurationParameter49
+Configuration_Item49=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopPaste|Polygon=Full|PrintOutIndex=8|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name50=OutputConfigurationParameter50
+Configuration_Item50=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=8|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name51=OutputConfigurationParameter51
+Configuration_Item51=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=8|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name52=OutputConfigurationParameter52
+Configuration_Item52=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=8|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name53=OutputConfigurationParameter53
+Configuration_Item53=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=9|Mirror=False|Name=Bottom Paste Mask Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name54=OutputConfigurationParameter54
+Configuration_Item54=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomPaste|Polygon=Full|PrintOutIndex=9|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name55=OutputConfigurationParameter55
+Configuration_Item55=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=9|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name56=OutputConfigurationParameter56
+Configuration_Item56=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=9|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name57=OutputConfigurationParameter57
+Configuration_Item57=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=9|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name58=OutputConfigurationParameter58
+Configuration_Item58=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=10|Mirror=False|Name=Top Solder Mask Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name59=OutputConfigurationParameter59
+Configuration_Item59=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopSolder|Polygon=Full|PrintOutIndex=10|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name60=OutputConfigurationParameter60
+Configuration_Item60=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=10|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name61=OutputConfigurationParameter61
+Configuration_Item61=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=10|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name62=OutputConfigurationParameter62
+Configuration_Item62=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=10|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name63=OutputConfigurationParameter63
+Configuration_Item63=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=11|Mirror=False|Name=Bottom Solder Mask Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name64=OutputConfigurationParameter64
+Configuration_Item64=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomSolder|Polygon=Full|PrintOutIndex=11|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name65=OutputConfigurationParameter65
+Configuration_Item65=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=11|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name66=OutputConfigurationParameter66
+Configuration_Item66=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=11|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name67=OutputConfigurationParameter67
+Configuration_Item67=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=11|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name68=OutputConfigurationParameter68
+Configuration_Item68=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=12|Mirror=False|Name=Mechanical 1|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name69=OutputConfigurationParameter69
+Configuration_Item69=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=12|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name70=OutputConfigurationParameter70
+Configuration_Item70=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=12|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name71=OutputConfigurationParameter71
+Configuration_Item71=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=12|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name72=OutputConfigurationParameter72
+Configuration_Item72=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=13|Mirror=False|Name=Mechanical 13|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name73=OutputConfigurationParameter73
+Configuration_Item73=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=13|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name74=OutputConfigurationParameter74
+Configuration_Item74=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=13|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name75=OutputConfigurationParameter75
+Configuration_Item75=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=13|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name76=OutputConfigurationParameter76
+Configuration_Item76=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=14|Mirror=False|Name=Mechanical 15|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name77=OutputConfigurationParameter77
+Configuration_Item77=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=14|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name78=OutputConfigurationParameter78
+Configuration_Item78=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=14|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name79=OutputConfigurationParameter79
+Configuration_Item79=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=14|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name80=OutputConfigurationParameter80
+Configuration_Item80=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=15|Mirror=False|Name=Top Pad Master|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name81=OutputConfigurationParameter81
+Configuration_Item81=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Full|CRegion=Hidden|CText=Hidden|CTrack=Hidden|CVia=Hidden|Designator=Hidden|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Hidden|FFill=Hidden|FPad=Full|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=MultiLayer|Polygon=Hidden|PrintOutIndex=15|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name82=OutputConfigurationParameter82
+Configuration_Item82=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Full|CRegion=Hidden|CText=Hidden|CTrack=Hidden|CVia=Hidden|Designator=Hidden|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Hidden|FFill=Hidden|FPad=Full|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=TopLayer|Polygon=Hidden|PrintOutIndex=15|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name83=OutputConfigurationParameter83
+Configuration_Item83=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=15|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name84=OutputConfigurationParameter84
+Configuration_Item84=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=15|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name85=OutputConfigurationParameter85
+Configuration_Item85=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=15|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name86=OutputConfigurationParameter86
+Configuration_Item86=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=16|Mirror=False|Name=Bottom Pad Master|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name87=OutputConfigurationParameter87
+Configuration_Item87=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Full|CRegion=Hidden|CText=Hidden|CTrack=Hidden|CVia=Hidden|Designator=Hidden|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Hidden|FFill=Hidden|FPad=Full|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=MultiLayer|Polygon=Hidden|PrintOutIndex=16|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name88=OutputConfigurationParameter88
+Configuration_Item88=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Full|CRegion=Hidden|CText=Hidden|CTrack=Hidden|CVia=Hidden|Designator=Hidden|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Hidden|FFill=Hidden|FPad=Full|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=BottomLayer|Polygon=Hidden|PrintOutIndex=16|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name89=OutputConfigurationParameter89
+Configuration_Item89=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=16|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name90=OutputConfigurationParameter90
+Configuration_Item90=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=16|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name91=OutputConfigurationParameter91
+Configuration_Item91=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=16|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name92=OutputConfigurationParameter92
+Configuration_Item92=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=17|Mirror=False|Name=Keep Out Layer|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name93=OutputConfigurationParameter93
+Configuration_Item93=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=KeepOutLayer|Polygon=Full|PrintOutIndex=17|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name94=OutputConfigurationParameter94
+Configuration_Item94=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=17|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name95=OutputConfigurationParameter95
+Configuration_Item95=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=17|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name96=OutputConfigurationParameter96
+Configuration_Item96=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=17|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name97=OutputConfigurationParameter97
+Configuration_Item97=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=18|Mirror=False|Name=Drill Drawing For (TOP01 - BOT06)|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name98=OutputConfigurationParameter98
+Configuration_Item98=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=DrillDrawing|Polygon=Full|PrintOutIndex=18|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name99=OutputConfigurationParameter99
+Configuration_Item99=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=18|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name100=OutputConfigurationParameter100
+Configuration_Item100=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=18|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name101=OutputConfigurationParameter101
+Configuration_Item101=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=18|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name102=OutputConfigurationParameter102
+Configuration_Item102=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=19|Mirror=False|Name=Drill Guide For (TOP01 - BOT06)|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name103=OutputConfigurationParameter103
+Configuration_Item103=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=DrillGuide|Polygon=Full|PrintOutIndex=19|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name104=OutputConfigurationParameter104
+Configuration_Item104=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=19|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name105=OutputConfigurationParameter105
+Configuration_Item105=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=19|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+Configuration_Name106=OutputConfigurationParameter106
+Configuration_Item106=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=19|Record=PcbPrintLayer|DocumentPath=C:\Users\LGH\Desktop\Study DOC\PCB Design\ZYNQ7000\ZYNQ7020_v4.2\ZYNQ7020.PcbDoc
+
